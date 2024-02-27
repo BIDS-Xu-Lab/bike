@@ -106,9 +106,6 @@ dist
 # for mac
 .DS_Store
 
-# large data files
-*.tsv
-
 # local envs
 .env.spinup
 .env.github
